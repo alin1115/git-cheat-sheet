@@ -3,5 +3,17 @@ git add <filename>
 git status 
 git commit -m "message"
 git commit --amend (to edit commit)
+git merge (mostly main)
+git ignore
+git stash - temp storage = bucket (0 is always latest)
+git fetch
+git stash pop - will apply latest one and will remove latest one 
+git log (also shows diff in master and another branch)
+git rebase - between 2 branches  
+git revert - help to go back one level above (one last commit)
+git reset - allows to go to third commit (hard/soft)
+
+
+
 
 
